@@ -409,3 +409,9 @@ drop table if exists product;
 
 desc product;
 # Table 'menudb.product' doesn't exist
+
+
+
+
+
+
